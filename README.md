@@ -27,10 +27,6 @@ I specialize in designing, developing, and deploying complete software systems w
 - SQL Server & Database Design
 - Entity Framework, LINQ
 
-### 🖥️ Desktop Applications
-- Windows Forms (WinForms) using .NET Framework
-- SQL Server integration
-
 ### 📦 Software Engineering Principles
 - Full SDLC: Requirements → Design → Development → Testing → Deployment → Maintenance
 - SOLID Principles
