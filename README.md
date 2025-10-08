@@ -49,7 +49,7 @@ I specialize in designing, developing, and deploying complete software systems w
 - 🌦️ **Weather App** – React + External API + Language translation  
 - 🕌 **Prayer Times App** – Vanilla JS + API integration  
 - 🔐 **Authentication System (Training)** – Auth + Authorization workflow  
-- 💻 **Desktop Management System** – Windows Forms + SQL Server  
+- 💻 **Clinic Management System** – C# (.NET 6/7+) + SQL Server  
 
 > 💼 I’ve worked on dozens of projects — from small apps to full-stack platforms.  
 > Currently building enterprise-level applications using **Next.js** and **.NET Core Web APIs**.
